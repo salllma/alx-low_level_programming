@@ -1,7 +1,7 @@
-## PROJECT: 0x00-hello_world
+# PROJECT: 0x00-hello_world
  This project is a collection of scripts and programs in the C language that aim to solve a series of problems, exploring different aspects of C programming.
 
-# Overview:
+## Overview:
 This project is broken down into six different parts, each with a specific problem to solve. They are as follows:
 
 1- Preprocessor : A script that runs a C file through the preprocessor and saves the result into another file.
