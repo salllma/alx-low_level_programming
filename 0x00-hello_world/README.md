@@ -14,9 +14,9 @@ This project is broken down into six different parts, each with a specific probl
 In addition to these specific problems, there is a program that prints the size of various types on the computer it is compiled and run on.
 
 ## Tools Used :
-C Language
-GCC Compiler
-Betty linter
+- C Language
+- GCC Compiler
+- Betty linter
  
 ## Conclusion: 
 This project test the developer's skillset in C programming, exploring different aspects of the language such as the preprocessor, compiler, assembler and printf functions. As part of this project, various programs and bash scripts were created to solve specific problems.
