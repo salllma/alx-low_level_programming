@@ -1,2 +1,2 @@
 #!/bin/bash
-CFILE=2-main.c && gcc -c $CFILE -o ${CFILE%.c}.o
+CFILE=2-main.c && gcc -S $CFILE -o ${CFILE%.c}.s
