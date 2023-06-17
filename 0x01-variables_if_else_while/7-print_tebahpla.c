@@ -2,9 +2,9 @@
 #include<string.h>
 
 /**
- * main - entry point to a function that print the alphabet 
+ * main - entry point to a function that print the alphabet
  * in lowercase in reverse
- * 
+ *
  * Return: Always 0 on success
 */
 
