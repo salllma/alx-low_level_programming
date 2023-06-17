@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<string.h>
 
 /**
  * main - entry point to a function that print the alphabet in lowercase
@@ -11,7 +12,7 @@ int main(void)
 	int i = 0;
 
 	for (i = 97; i <= 122; ++i)
-		printf("%c", i);
+		putchar("%c", i);
 
 
 	return (0);
