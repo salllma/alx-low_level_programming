@@ -11,8 +11,12 @@ int main(void)
 {
 	char i;
 
-	for (i = 97; i <= 122; i++)
-		printf("%c", i);
+	for (i = 'a'; i <= 'z'; i++)
+	{
+		putchar(i);
+	}
+
+	putchar('\n');
 
 
 	return (0);
