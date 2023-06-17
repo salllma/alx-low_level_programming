@@ -9,10 +9,10 @@
 
 int main(void)
 {
-	int i = 0;
+	char i;
 
-	for (i = 97; i <= 122; ++i)
-		putchar("%c", i);
+	for (i = 97; i <= 122; i++)
+		printf("%c", i);
 
 
 	return (0);
