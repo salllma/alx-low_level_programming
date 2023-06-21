@@ -1,5 +1,5 @@
-#include<stdio.h>
-#include<string.h>
+#include <stdio.h>
+#include "main.h"
 
 /**
  * main - entry point to a program that print 
@@ -11,6 +11,6 @@
 int main(void)
 {
 	printf("_putchar");
-	
+
 	return 0;
 }
