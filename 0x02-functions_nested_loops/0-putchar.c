@@ -10,7 +10,17 @@
 
 int main(void)
 {
-	printf("_putchar\n");
+	int i = 0;
+	char str[] = "_string";
+
+	while (str[i] != '\0')
+	{
+	_putchar(str[i]);
+	i++;
+	}
+
+	_putchar('\n');
 
 	return (0);
 }
+
