@@ -9,12 +9,6 @@
 
 int _islower(int c)
 {
-	int i = c;
+	return (c >= 97 && c <= 122 ? 1 : 0);
 
-	for (i = 97; i <= 122; i++)
-	{
-		return (1);
-	}
-
-	return (0);
 }
